@@ -1,0 +1,33 @@
+body {
+  background-image: url(../img/c6106a4ad2e69ff7dd4f705c0bda740d.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-color: #b6ac8d;
+}
+
+.bg-f5f2eb {
+  background-color: #f5f2eb;
+}
+
+.nav-link {
+  color: rgb(85, 73, 51, 1);
+}
+.nav-pills .nav-link.active {
+  color: #fff;
+  background-color: rgb(85, 73, 51, 1);
+}
+.nav-link:hover {
+  color: rgb(85, 73, 51, 0.5);
+}
+.nav-link:focus {
+  color: rgb(85, 73, 51, 0.5);
+}
+
+.btn-primary {
+  background-color: rgb(85, 73, 51, 1);
+  border: rgb(85, 73, 51, 1);
+}
+.btn-primary:hover {
+  background-color: rgb(85, 73, 51, 0.5);
+  border: rgb(85, 73, 51, 0.5);
+}
